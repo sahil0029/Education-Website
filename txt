@@ -1,9 +1,0 @@
-CSS Variable
-CSS grids and flexbox
-BEM block element modifier
-CSS Units for responsive design (vh , vw , fr %)
-form submission with spam protection (No backend language)
-css transition and animations
-
-swiperJS for slides //testimonials 
-1 rem = 16 px
