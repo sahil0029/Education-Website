@@ -2,7 +2,7 @@
 
 This repository contains the source code and related files for an education website. The website aims to provide a platform for students, teachers, and educational institutions to collaborate, share resources, and enhance the learning experience. This README file provides an overview of the repository and instructions for setting up and running the website.
 
-[Click here](https:tinyurl.com/sahil0029) for live Demo
+[Click here](https://sahil0029.github.io/Education-Website/) for live Demo
 ## Table of Contents
 
     Features
