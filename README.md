@@ -22,11 +22,7 @@ The education website offers the following features:
 
 3. Course Pages: Dedicated pages for each course, providing detailed information about the course, its syllabus, and any associated resources.
 
-4. Resource Downloads: Users can download educational resources such as PDFs, documents, and presentations from the website.
-
-5. Search Functionality: Users can search for specific courses or resources using keywords or filters.
-
-6. Responsive Design: The website is designed to be responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
+4. Responsive Design: The website is designed to be responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 
 ## Setup
 
